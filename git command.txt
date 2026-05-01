@@ -1,0 +1,6 @@
+cd /Users/hkchu/Desktop/phys657_spring_2026_billy_claire
+git status
+git add .
+ls
+git commit -m "HW6Q4 - Neural Networks"
+git push
